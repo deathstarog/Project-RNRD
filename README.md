@@ -1,2 +1,2 @@
 # RNRD-Project
-First group project - interactive multi-media aggregate 
+First group project - interactive multi-media aggregatee 
